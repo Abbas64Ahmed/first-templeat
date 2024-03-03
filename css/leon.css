@@ -349,8 +349,9 @@ html {
 }
 .about .about-grupe .text hr {
     width: 50%;
-    color: var(--main-color);
     margin: 0;
+    border: 1px solid var(--main-color); 
+    
 
 }
 @media (max-width: 991px) {
